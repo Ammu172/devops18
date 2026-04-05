@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "one" {
-  bucket = "immortalking$209"
+  bucket = "immortalking209"
 }
 
 resource "aws_s3_bucket_ownership_controls" "two" {
